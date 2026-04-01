@@ -1,6 +1,10 @@
-> ⚠️ **Nota:** Este repositorio contiene únicamente el código del **Backend**. Puedes encontrar la interfaz de usuario y la lógica de cliente en el [Repositorio del Frontend](https://github.com/roliver97/FullStackJavascript_P10_Evently_frontend).
+# 🎟️ Evently - Gestión de Eventos (Backend)
 
-# 🎟️ Plataforma Full Stack - Gestión de Eventos (Backend)
+## Plataforma Full Stack Javascript - Proyecto 10 - RTC
+
+> 📡 **API Base URL:** [https://evently-backend-p10.vercel.app/api/v1](https://evently-backend-p10.vercel.app/api/v1)
+
+> ⚠️ **Nota:** Este repositorio contiene únicamente el código del **Backend**. Puedes encontrar la interfaz de usuario y la lógica de cliente en el [Repositorio del Frontend](https://github.com/roliver97/FullStackJavascript_P10_Evently_frontend).
 
 API REST robusta construida con Node.js, Express y MongoDB para la gestión integral de eventos. El sistema implementa una arquitectura escalable con controladores dedicados, seguridad mediante JWT, gestión de relaciones complejas en la base de datos y almacenamiento de archivos en la nube a través de Cloudinary.
 
